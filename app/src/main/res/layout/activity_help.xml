@@ -7,4 +7,22 @@
     tools:context=".HelpActivity">
 
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="375dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="left"
+        android:text="HOW TO USE:\n
+\n
+    1. Press on the get started button \n
+    2. Enter an item you intend to add to the list \n
+    3. Press save \n
+    4. items can be edit if you click on it \n
+    5. press pick for me"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </android.support.constraint.ConstraintLayout>
