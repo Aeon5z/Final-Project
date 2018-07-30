@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="map">Map</string>
+    <string name="start">Start</string>
+    <string name="help">Help</string>
+    <string name="todo">TODO</string>
+    <string name="insert_list_name_here">Insert list name here</string>
+    <string name="button">Button</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
